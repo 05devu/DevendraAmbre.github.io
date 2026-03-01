@@ -346,7 +346,7 @@ body.tt-transition .tt-ptr-prel-content {
 }
 
 .tt-ptr-prel-image {
-	max-height: 72px; /* You may need to change the img height to match your logo type! */
+	max-height: 92px; /* You may need to change the img height to match your logo type! */
 	opacity: .7; /* You may need to change the opacity as well! */
 }
 
@@ -1281,7 +1281,7 @@ body:not(.tt-m-menu-open) #tt-header.tt-header-scroll.tt-fly-up {
 	color: #222;
 }
 .tt-logo img {
-	max-height: 48px; /* You may need to change the img height to match your logo type! */
+	max-height: 58px; /* You may need to change the img height to match your logo type! */
 }
 .tt-logo-dark{
 	display: none;
@@ -1290,7 +1290,7 @@ body:not(.tt-m-menu-open) #tt-header.tt-header-scroll.tt-fly-up {
 /* Logo for small screens */
 @media (max-width: 1024px) {
 	.tt-logo img {
-		max-height: 38px; /* You may need to change the img height to match your logo type! */
+		max-height: 48px; /* You may need to change the img height to match your logo type! */
 	}
 }
 
