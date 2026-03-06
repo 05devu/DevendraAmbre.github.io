@@ -4667,6 +4667,18 @@ a.tt-logo-wall-item:hover img {
 
 /* Logo wall columns 
 ===================== */
+
+.tt-logo-wall {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* this centers the logos */
+}
+
+.tt-logo-wall li {
+    display: flex;
+    justify-content: center;
+}
+
 .tt-logo-wall.tt-lw-col-4 > li {
 	width: 25%;
 }
